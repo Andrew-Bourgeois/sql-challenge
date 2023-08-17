@@ -55,6 +55,7 @@ For this project, design tables to hold the data from the provided CSV files, im
 
 ### RESOURCES
 * database management tool, pgAdmin 4: https://www.pgadmin.org/
+* ERD Tool QuickDBD:http://www.quickdatabasediagrams.com/
 * For creating DATE type column and isolating the year: 
     -   https://www.geeksforgeeks.org/postgresql-date-data-type/
     -   BETWEEN statement: https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-between/ 
