@@ -7,6 +7,7 @@
 * Use a PostGresSQL database mangement tool (I used pgAdmin 4, Version 7.2 for MAC) to create a new database
 * Create the new tables using the query **sql-challenge-schema.sql** (found in the "sql-challenge/EmployeeSQL" folder) 
 * import the CSVs located in the "sql-challenge/EmployeeSQL/Resources" folder into their corresponding tables
+    **IMPORTANT** import CSV files into the tables in the order they were created in the schema query!!
 * You can then use the queries in **sql-challenge-solutions.sql** (found in the "sql-challenge/EmployeeSQL" folder).
 
 ### BACKGROUND
